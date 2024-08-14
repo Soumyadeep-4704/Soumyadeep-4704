@@ -8,8 +8,16 @@
 - Cloud Domain
 
 ##SKills
-- **TECHNOLOGIES**
-  ![HTML](https://github.com/user-attachments/assets/80c4a509-6368-4d9b-a8a5-6638dd843643)
+- **TOOLS & TECHNOLOGIES**
+ 
+  <img src="images/HTML.png" width="50px" height="50px" />
+  <img src="images/CSS.jpeg" width="50px" height="50px" />
+  <img src="images/JS.jpeg" width="50px" height="50px" />
+  <img src="images/git.png" width="50px" height="50px" />
+  <img src="images/gitHub.png" width="50px" height="50px" />
+  <img src="images/vsCode.jpeg" width="50px" height="50px" />
+  <img src="images/nodeJS.png" width="50px" height="50px" />
+  <img src="images/cpp.png" width="50px" height="50px" />
 
   
  💞️ I’m looking to collaborate on ...
@@ -21,6 +29,3 @@
 Soumyadeep-4704/Soumyadeep-4704 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-![CSS](https://github.com/user-attachments/assets/c16a92a5-ddb7-4e03-93b5-2c701e6a9315)
-![nodeJS](https://github.com/user-attachments/assets/6d4b1aaa-4c05-4ce7-9977-5bbf251d2b3b)
