@@ -26,7 +26,9 @@
 - 📫 How to reach me: Soumyadeep Paul (LinkedIn)
 - 😄 Pronouns: He/Him
 
+<h3>----</h3>
 
+[![](https://visitcount.itsvg.in/api?id=Soumyadeep-4704&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
 <!---
 Soumyadeep-4704/Soumyadeep-4704 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
