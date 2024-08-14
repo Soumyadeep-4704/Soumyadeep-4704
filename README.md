@@ -15,15 +15,14 @@
   <img src="images/JS.jpeg" width="50px" height="50px" />
   <img src="images/git.png" width="50px" height="50px" />
   <img src="images/gitHub.png" width="50px" height="50px" />
-  <img src="images/vsCode.jpeg" width="50px" height="50px" />
+  <img src="images/vsCode.png" width="50px" height="50px" />
   <img src="images/nodeJS.png" width="50px" height="50px" />
   <img src="images/cpp.png" width="50px" height="50px" />
 
   
- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: Soumyadeep Paul (LinkedIn)
+- 😄 Pronouns: He/Him
+
 
 <!---
 Soumyadeep-4704/Soumyadeep-4704 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
