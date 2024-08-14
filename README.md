@@ -10,7 +10,7 @@
 ##SKills
 - **TOOLS & TECHNOLOGIES**
  
-  <img src="images/HTML.png" width="50px" height="50px" />
+  <img src="images/HTML.png" width="50px" height="50px"/>
   <img src="images/CSS.jpeg" width="50px" height="50px" />
   <img src="images/JS.jpeg" width="50px" height="50px" />
   <img src="images/git.png" width="50px" height="50px" />
