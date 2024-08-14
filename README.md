@@ -30,8 +30,11 @@
 - ⚡ Fun fact: **I love listening to music!**
 
 - <h4 align="left">Connect With Me</h4>
-  
+  <div style= "gap: 12px">
     <a href="(https://www.linkedin.com/in/soumyadeep-paul-6536ba291)"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="40" width="40" /></a>
+    <a href="mailto:soumyadeeppaul.info@gmail.com"><img align="center" src="https://lh3.googleusercontent.com/0rpHlrX8IG77awQMuUZpQ0zGWT7HRYtpncsuRnFo6V3c8Lh2hPjXnEuhDDd-OsLz1vua4ld2rlUYFAaBYk-rZCODmi2eJlwUEVsZgg" height="40" width="40" /></a>
+  </div>
+    
 
 
 <hr />
