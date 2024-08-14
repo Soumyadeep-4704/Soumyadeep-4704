@@ -29,10 +29,9 @@
 - ⚡ Fun fact **I love listening to music!**
 - 😄 Pronouns: He/Him
 
-  <h4 align="left">Connect With Me</h4>
-  <p align="left">
-   <a href="(https://www.linkedin.com/in/soumyadeep-paul-6536ba291)"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="40" width="40" /></a>
-  </p>
+- <h4 align="left">Connect With Me</h4>
+  
+    <a href="(https://www.linkedin.com/in/soumyadeep-paul-6536ba291)"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="40" width="40" /></a>
   
   
 
