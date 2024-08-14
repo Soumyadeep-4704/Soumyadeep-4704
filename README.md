@@ -1,17 +1,14 @@
-<h2>👋Hey there,</h2>
+<h1 align="center">Hi 👋, I am SOUMYADEEP PAUL</h1>
 
- My name is **Soumyadeep Paul**. I am an undergraduate at National Institute of Technology Silchar from the Departmaent of Mechanical Engineering.
-  I am keenly intersted in the world of technology and a web developer with experience in HTML5, CSS, JavaScript, Node.js.
+<h4 align="center">A developer and an Open-Source Enthusiast.</h4> 
+
+ <h1 align="center">Interests</h1>
+  I am keenly interested in the world of technology and a web developer with experience in HTML5, CSS, JavaScript, Node.js.
   I am also interested in cloud computimg and Data Structures and Algorithms.
    
-🌱 I’m currently learning...
-- Data Structures and Algorithms
-- Cloud Domain
 
-<h2>Skills</h2>
+<h1 align="center">Tech Stacks</h1>
 
-
-- **TOOLS & TECHNOLOGIES**
  
   <img src="images/HTML.png" width="50px" height="50px"/>
   <img src="images/CSS.jpeg" width="50px" height="50px" />
@@ -22,9 +19,23 @@
   <img src="images/nodeJS.png" width="50px" height="50px" />
   <img src="images/cpp.png" width="50px" height="50px" />
 
+
+
+  <hr />
+
   
-- 📫 How to reach me: Soumyadeep Paul (LinkedIn)
+
+- 🌱 I’m currently exploring **Cloud Domain.**
+- 🤝 I’m looking for help with **Data Structures & Algorithms.**
+- ⚡ Fun fact **I love listening to music!**
 - 😄 Pronouns: He/Him
+
+  <h4 align="left">Connect With Me</h4>
+  <p align="left">
+   <a href="(https://www.linkedin.com/in/soumyadeep-paul-6536ba291)"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="40" width="40" /></a>
+  </p>
+  
+  
 
 <h3>----</h3>
 
