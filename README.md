@@ -24,10 +24,10 @@
 
   
 
-- 🌱 I’m currently exploring **Cloud Domain.**
-- 🤝 I’m looking for help with **Data Structures & Algorithms.**
-- ⚡ Fun fact **I love listening to music!**
-- 😄 Pronouns: He/Him
+- 🌱 Currently exploring the **Cloud Domain.**
+- 🤝 Looking for help in **Data Structures and Algorithms.**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I love listening to music!**
 
 - <h4 align="left">Connect With Me</h4>
   
