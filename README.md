@@ -8,7 +8,7 @@
 - Data Structures and Algorithms
 - Cloud Domain
 
-<h2>SKills</h2>
+<h2>Skills</h2>
 
 
 - **TOOLS & TECHNOLOGIES**
