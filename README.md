@@ -32,13 +32,18 @@
 - <h4 align="left">Connect With Me</h4>
   
     <a href="(https://www.linkedin.com/in/soumyadeep-paul-6536ba291)"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="40" width="40" /></a>
+
+
+<hr />
+
   
-  
+<h1 align="center">GitHub Stats</h1>  
+
 ![](https://github-readme-stats.vercel.app/api?username=Soumyadeep-4704&show_icons=true&theme=transparent)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Soumyadeep-4704&show_icons=true&theme=transparent)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadeep-4704&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+
 
 
 
