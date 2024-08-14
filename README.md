@@ -9,7 +9,7 @@
 
 <h1 align="center">Tech Stacks</h1>
 
- 
+<div style="display: flex, align-items:center; gap: 10px">
   <img src="images/HTML.png" width="50px" height="50px"/>
   <img src="images/CSS.jpeg" width="50px" height="50px" />
   <img src="images/JS.jpeg" width="50px" height="50px" />
@@ -18,8 +18,7 @@
   <img src="images/vsCode.png" width="50px" height="50px" />
   <img src="images/nodeJS.png" width="50px" height="50px" />
   <img src="images/cpp.png" width="50px" height="50px" />
-
-
+</div>
 
   <hr />
 
