@@ -1,13 +1,16 @@
-##👋 Hey there,
+<h2>👋Hey there,</h2>
+
  My name is **Soumyadeep Paul**. I am an undergraduate at National Institute of Technology Silchar from the Departmaent of Mechanical Engineering.
   I am keenly intersted in the world of technology and a web developer with experience in HTML5, CSS, JavaScript, Node.js.
   I am also interested in cloud computimg and Data Structures and Algorithms.
    
-##🌱 I’m currently learning...
+🌱 I’m currently learning...
 - Data Structures and Algorithms
 - Cloud Domain
 
-##SKills
+<h2>SKills</h2>
+
+
 - **TOOLS & TECHNOLOGIES**
  
   <img src="images/HTML.png" width="50px" height="50px"/>
