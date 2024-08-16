@@ -1,42 +1,35 @@
 <h1 align="center">Hi 👋, I am SOUMYADEEP PAUL</h1>
 
 <h4 align="center">A developer and an Open-Source Enthusiast.</h4> 
-
- <h1 align="center">Interests</h1>
-  I am keenly interested in the world of technology and a web developer with experience in HTML5, CSS, JavaScript, Node.js.
-  I am also interested in cloud computimg and Data Structures and Algorithms.
    
 
 <h1 align="center">Tech Stacks</h1>
 
-<div style="display: flex, align-items:center; gap: 10px">
-  <img src="images/HTML.png" width="50px" height="50px"/>
-  <img src="images/CSS.jpeg" width="50px" height="50px" />
-  <img src="images/JS.jpeg" width="50px" height="50px" />
-  <img src="images/git.png" width="50px" height="50px" />
-  <img src="images/gitHub.png" width="50px" height="50px" />
-  <img src="images/vsCode.png" width="50px" height="50px" />
-  <img src="images/nodeJS.png" width="50px" height="50px" />
-  <img src="images/cpp.png" width="50px" height="50px" />
-</div>
+## Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,kotlin)](https://skillicons.dev)
+## Web Development
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
+## Frameworks
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,nodejs,react)](https://skillicons.dev)
+## Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
+
+
+
+
 
   <hr />
-
   
-
 - 🌱 Currently exploring the **Cloud Domain.**
 - 🤝 Looking for help in **Data Structures and Algorithms.**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love listening to music!**
-
 - <h4 align="left">Connect With Me</h4>
   <div style= "gap: 12px">
     <a href="(https://www.linkedin.com/in/soumyadeep-paul-6536ba291)"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="40" width="40" /></a>
     <a href="mailto:soumyadeeppaul.info@gmail.com"><img align="center" src="https://lh3.googleusercontent.com/0rpHlrX8IG77awQMuUZpQ0zGWT7HRYtpncsuRnFo6V3c8Lh2hPjXnEuhDDd-OsLz1vua4ld2rlUYFAaBYk-rZCODmi2eJlwUEVsZgg" height="40" width="40" /></a>
   </div>
     
-
-
 <hr />
 
   
