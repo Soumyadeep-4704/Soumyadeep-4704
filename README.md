@@ -35,9 +35,7 @@
   
 <h1 align="center">GitHub Stats</h1>  
 
-![](https://github-readme-stats.vercel.app/api?username=Soumyadeep-4704&show_icons=true&theme=transparent)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Soumyadeep-4704&show_icons=true&theme=transparent)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadeep-4704&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
