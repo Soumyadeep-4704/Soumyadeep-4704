@@ -12,7 +12,7 @@
 ## Frameworks
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,nodejs,react)](https://skillicons.dev)
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=linux,figma,git,github, vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,figma,git,github,vscode)](https://skillicons.dev)
 
 
 
