@@ -6,13 +6,13 @@
 <h1 align="center">Tech Stacks</h1>
 
 ## Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
 ## Web Development
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
 ## Frameworks
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,nodejs,react)](https://skillicons.dev)
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=Linux,Figma,vscode,git,github)](https://skillicons.dev)
 
 
 
