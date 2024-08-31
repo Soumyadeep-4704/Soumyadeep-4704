@@ -10,7 +10,7 @@
 ## Web Development
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
 ## Frameworks
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,nodejs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,nodejs,react)](https://skillicons.dev)
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=figma,git,github,vscode)](https://skillicons.dev)
 
