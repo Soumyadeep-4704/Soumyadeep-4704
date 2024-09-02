@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I am SOUMYADEEP PAUL</h1>
 
-<h4 align="center">A developer and an Open-Source Enthusiast.</h4> 
+<h4 align="center">A developer and a Tech-Enthusiast.</h4> 
    
 
 <h1 align="center">Tech Stacks</h1>
