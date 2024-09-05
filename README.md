@@ -7,11 +7,11 @@
 <h1 align="center">Tech Stacks</h1>
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,kotlin,javascript,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,kotlin,html,css, javascript)](https://skillicons.dev)
 ## Frameworks
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,jquery,nodejs,react)](https://skillicons.dev)
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=figma,linux,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,linux,git,github, android studio,vscode)](https://skillicons.dev)
 
 
 
