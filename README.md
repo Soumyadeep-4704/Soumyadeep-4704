@@ -21,7 +21,7 @@
 
   <hr />
   
-- 🌱 Currently exploring the **Cloud Domain.**
+- 🌱 Currently exploring the **Data Analytics.**
 - 🤝 Looking for help in **Data Structures and Algorithms.**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love listening to music!**
