@@ -7,7 +7,7 @@
 <h1 align="center">Tech Stacks</h1>
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,kotlin,javascript,html,css)](https://skillicons.dev)
 ## Frameworks
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,jquery,nodejs,react)](https://skillicons.dev)
 ## Tools
