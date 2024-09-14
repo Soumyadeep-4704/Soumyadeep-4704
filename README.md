@@ -38,6 +38,9 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Soumyadeep-4704&show_icons=true&theme=transparent)
 
+<hr />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Soumyadeep-4704&theme=darkhub)](https://github.com/Soumyadeep-4704/github-profile-trophy)
 
 
 
