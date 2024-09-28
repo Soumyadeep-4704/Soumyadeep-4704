@@ -11,7 +11,7 @@
 ## Frameworks
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,jquery,nodejs)](https://skillicons.dev)
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=figma,linux,git,github,androidstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,postman,git,github,linux,androidstudio,vscode)](https://skillicons.dev)
 
 
 
