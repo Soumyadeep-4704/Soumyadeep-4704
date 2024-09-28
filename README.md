@@ -9,7 +9,7 @@
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript)](https://skillicons.dev)
 ## Frameworks
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,jquery,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,jquery,tailwind,bootstrap)](https://skillicons.dev)
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=figma,postman,git,github,linux,androidstudio,vscode)](https://skillicons.dev)
 
