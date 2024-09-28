@@ -31,7 +31,7 @@
     
 <hr />
 
-<img align="right" alt="coder" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" height="300" style="@media(max-width:881px) and (min-width:200px){height:100, width:100}">
+<img align="right" alt="coder" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" height="300" style="@media(max-width:881px){ img{height:100, width:100}}">
 
   
 <h1 align="center">GitHub Stats</h1>  
