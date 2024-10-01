@@ -19,7 +19,7 @@
 
   <hr />
   
-- 🌱 Currently exploring the **Data Analytics.**
+- 🌱 Currently exploring the **UI/UX.**
 - 🤝 Looking for help in **Data Structures and Algorithms.**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love listening to music!**
