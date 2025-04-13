@@ -14,6 +14,16 @@
 [![My Skills](https://skillicons.dev/icons?i=figma,postman,git,github,linux,androidstudio,vscode)](https://skillicons.dev)
 
 
+<hr />
+
+<details>	
+<summary><b>Certifications</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='left'>
+<a href="https://www.credly.com/badges/56d1ea56-2fd5-42d4-93b1-13007395657d/public_url">
+<img src="https://images.credly.com/size/220x220/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" width="150px" height="150px" />
+</a>
+</div>
+</details>
 
 
 
