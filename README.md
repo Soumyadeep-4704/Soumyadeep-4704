@@ -17,6 +17,7 @@
   <hr />
   
 - 🌱 Currently exploring the **Cloud.**
+- 🎯 Planning to build an **AI Chatbot.**
 - 🤝 Looking for help in **Data Structures and Algorithms.**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love listening to music!**
