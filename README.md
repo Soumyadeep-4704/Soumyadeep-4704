@@ -41,14 +41,9 @@
     
 <hr />
 
-  
-<details>
-   <summary>
-     <h2 align="center">GitHub Stats</h2>  
-   </summary>
+## GitHub Stats
    
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=Soumyadeep-4704&show_icons=true&theme=transparent) 
-</details>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Soumyadeep-4704&show_icons=true&theme=transparent) 
 
 <hr />
 <details>
