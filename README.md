@@ -25,17 +25,6 @@
     <a href="mailto:soumyadeeppaul.info@gmail.com"><img align="center" src="https://lh3.googleusercontent.com/0rpHlrX8IG77awQMuUZpQ0zGWT7HRYtpncsuRnFo6V3c8Lh2hPjXnEuhDDd-OsLz1vua4ld2rlUYFAaBYk-rZCODmi2eJlwUEVsZgg" height="40" width="40" /></a>
   </div>
 
-  <hr />
-
-<details>	
-<summary><h2 align="center">Certifications</h2></summary>
-<div style='display:flex; align-items:center; gap: 10px;' align:left>
-<a href="https://www.credly.com/badges/56d1ea56-2fd5-42d4-93b1-13007395657d/public_url">
-<img src="https://images.credly.com/size/220x220/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" width="150px" height="150px" />
-</a>
-</div>
-</details>
-
     
 <hr />
 
