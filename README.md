@@ -2,7 +2,14 @@
 <h1 align="center">Hi 👋, I am SOUMYADEEP PAUL</h1>
 
 <h4 align="center">A developer and a Tech-Enthusiast.</h4> 
-   
+
+<hr />
+
+<div align="center">
+   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random quote" />
+</div>
+
+<hr />
 
 <h1 align="center">Tech Stacks</h1>
 
@@ -37,9 +44,6 @@
 <div align="center">
     <img loading="lazy" width="100%" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer">
 </div>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 <!---
 Soumyadeep-4704/Soumyadeep-4704 is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
