@@ -35,12 +35,6 @@
     
 <hr />
 
-## GitHub Stats
-
-   [![trophy](https://github-profile-trophy.vercel.app/?username=Soumyadeep-4704&theme=onedark)](https://github.com/Soumyadeep-4704/github-profile-trophy)
-
-<hr />
-
 <div align="center">
     <img loading="lazy" width="100%" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer">
 </div>
