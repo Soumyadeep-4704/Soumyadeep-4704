@@ -29,17 +29,17 @@
 <hr />
 
 ## GitHub Stats
-   
-![](https://github-readme-streak-stats.herokuapp.com/?user=Soumyadeep-4704&show_icons=true&theme=transparent) 
+
+   [![trophy](https://github-profile-trophy.vercel.app/?username=Soumyadeep-4704&theme=onedark)](https://github.com/Soumyadeep-4704/github-profile-trophy)
 
 <hr />
-<details>
-   <summary>
-     <h2 align="center">GitHub Trophies</h2>  
-   </summary>
-  
- [![trophy](https://github-profile-trophy.vercel.app/?username=Soumyadeep-4704&theme=darkhub)](https://github.com/Soumyadeep-4704/github-profile-trophy)
-</details>
+
+<div align="center">
+    <img loading="lazy" width="100%" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer">
+</div>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 <!---
 Soumyadeep-4704/Soumyadeep-4704 is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
