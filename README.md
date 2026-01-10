@@ -18,7 +18,7 @@
 ## Frameworks
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind,bootstrap)](https://skillicons.dev)
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=supabase, firebase,vercel,figma,postman,git,github,linux,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=supabase,firebase,vercel,figma,postman,git,github,linux,vscode)](https://skillicons.dev)
 
 
   <hr />
