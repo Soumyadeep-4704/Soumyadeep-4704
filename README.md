@@ -1,4 +1,7 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<div align="center"> 
+   <img src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871" width="400" >
+</div>
+
 <h1 align="center">Hi 👋, I am SOUMYADEEP PAUL</h1>
 
 <h4 align="center">A developer and a Tech-Enthusiast.</h4> 
@@ -12,6 +15,7 @@
 <hr />
 
 <h1 align="center">Tech Stacks</h1>
+
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,javascript,css,html)](https://skillicons.dev)
