@@ -9,8 +9,12 @@
 <hr />
 
 <div align="center">
+   <!---Quote--->
    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random quote" />
+   <!---Fire--->
+   <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="400">
 </div>
+
 
 <hr />
 
@@ -25,9 +29,10 @@
 [![My Skills](https://skillicons.dev/icons?i=supabase,firebase,vercel,figma,postman,git,github,linux,vscode)](https://skillicons.dev)
 
 
-  <hr />
-  
+<hr />
+
 - 🤝 Looking for help in **Data Structures and Algorithms.**
+- 🚀 Currently exploring **AI/ML.**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love listening to music!**
 - <h4 align="left">Connect With Me</h4>
