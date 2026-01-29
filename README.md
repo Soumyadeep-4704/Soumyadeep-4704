@@ -79,6 +79,14 @@
     <a href="mailto:soumyadeeppaul.info@gmail.com"><img align="center" src="https://lh3.googleusercontent.com/0rpHlrX8IG77awQMuUZpQ0zGWT7HRYtpncsuRnFo6V3c8Lh2hPjXnEuhDDd-OsLz1vua4ld2rlUYFAaBYk-rZCODmi2eJlwUEVsZgg" height="40" width="40" /></a>
   </div>
 
+<div align="center">
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Soumyadeep-4704&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Soumyadeep-4704&layout=compact&langs_count=7&theme=dark" />
+</div>
+
+
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Soumyadeep-4704&bg_color=1d1b1c&color=4e9e4c&line=4c9e5d&point=3a9250&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
     
 <hr />
 
