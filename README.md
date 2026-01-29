@@ -21,13 +21,51 @@
 <h1 align="center">Tech Stacks</h1>
 
 
-## Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,javascript,css,html)](https://skillicons.dev)
-## Frameworks
-[![My Skills](https://skillicons.dev/icons?i=fastapi,nextjs,react,nodejs,tailwind,bootstrap)](https://skillicons.dev)
-## Tools
-[![My Skills](https://skillicons.dev/icons?i=supabase,firebase,vercel,figma,postman,git,github,linux,vscode)](https://skillicons.dev)
-
+<table align="center">
+    <tr>
+        <td><strong>Frontend Technologies</strong></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind&theme=dark" /></td>
+    </tr>
+    <tr>
+        <td><strong>Backend Technologies</strong></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=js,nodejs&theme=dark" /></td>
+    </tr>
+    <tr>
+        <td><strong>Fullstack Technologies</strong></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nextjs&theme=dark" /></td>
+    </tr>
+    <tr>
+        <td><strong>Programming Languages</strong></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,cpp,c&theme=dark" /></td>
+    </tr>
+    <tr>
+    <td><strong>Database</strong></td>
+    <td>
+        <img height="40" src="https://skillicons.dev/icons?i=supabase,firebase,mysql,postgresql&theme=dark" />
+    </td>
+    </tr>
+    <tr>
+    <td><strong>Tools</strong></td>
+    <td>
+        <img height="40" src="https://skillicons.dev/icons?i=git,github,vscode,atom&theme=dark" />
+        <img height="40" src="https://paulstamatiou.com/_next/image?url=%2Fgear%2Fcursor-app-icon.png&w=3840&q=75" alt="Cursor" />
+    </td>
+    </tr>
+    <tr>
+    <td><strong>Design Tools</strong></td>
+    <td>
+        <img height="40" src="https://skillicons.dev/icons?i=figma&theme=dark" />
+        <img height="40" src="https://yt3.googleusercontent.com/M7S2_gnnaJT5buAfWW4tanX9NELz5PddzNCQgnRV1oP8t12s5pg4cYKMChkEoh8gtGX__KtcYKU=s900-c-k-c0x00ffffff-no-rj" alt="Canva" />
+    </td>
+</tr>
+    <tr>
+    <td><strong>Hosting/Deployment</strong></td>
+    <td>
+        <img height="40" src="https://skillicons.dev/icons?i=github,vercel&theme=dark" />
+        <img height="40" src="https://render.com/images/render-logo-white.png" alt="Render" />
+    </td>
+</tr>    
+</table>
 
 <hr />
 
